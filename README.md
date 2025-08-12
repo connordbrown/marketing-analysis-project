@@ -2,6 +2,10 @@
 
 This guide explains gives an overview of and instructions for how to run the code for my Data Mining project that analyzes online retail data.
 
+Link to report: https://drive.google.com/file/d/1YYeTljqAXa6NXFZ4zyB7iuecDFh4_0ei/view?usp=share_link
+
+Link to video presentation: https://youtu.be/29LF0Ggw4vM
+
 ## Project Description
 
 This project explores the application of data mining techniques to extract actionable business insights from retail transaction data. The project addresses the common challenge retailers face when dealing with massive amounts of transaction data but lacking the analytical tools to transform this information into strategic business decisions. Using the Online Retail II dataset from the UCI Machine Learning Repository, which contains over one million transactions from a UK-based online giftware retailer spanning December 2009 to September 2011, I implemented three complementary analytical approaches to understand customer behavior, product relationships, and temporal sales patterns.
