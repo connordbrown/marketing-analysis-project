@@ -29,7 +29,7 @@ These findings reveal clear cross-selling opportunities and suggest that custome
 - **High-Value Active Customers** (3,610 customers): Recent purchases (52 days), high frequency (197 purchases), high monetary value ($4,107 average)
 - **Semi-Active Medium-Value Customers** (1,513 customers): Moderate recency (347 days), medium frequency (60 purchases), medium value ($996)
 - **At-Risk Low-Value Customers** (819 customers): Long recency (601 days), low frequency (27 purchases), low value ($384)
-- **Anomalous Cluster** (1 customer): Likely data artifact requiring refined preprocessing
+- **Anomalous Cluster** (1 customer): Non-member purchases
 
 This segmentation enables targeted marketing strategies tailored to each customer group's behavior patterns.
 
